@@ -1,0 +1,119 @@
+ a{
+     text-decoration: none;
+     forced-color-adjust: none;
+ }
+
+ body{
+  font-family: 'Roboto', sans-serif;
+ }
+ .full-wraper{
+     width: 100%;
+     clear: both;
+ }
+
+ .wraper{
+     width: 1100px;
+     margin: 0 auto;
+ }
+
+ .logo img{
+     width: 140px;
+     height: 120px;
+     padding: 10px 0;
+     float: left;
+     
+ }
+ .menu{
+      float: left;
+      width: 800px;
+       text-align: left;
+      /* padding: 20px;*/
+      margin-top: 100px;
+      margin-left: 20px;
+      
+       
+        
+     
+ }
+
+ .menu a{
+     color: #000;
+     padding: 10px;
+ }
+
+ .signin{
+   width: 140px;
+   float:right;
+   margin-top: 100px;
+   
+
+ }
+ .signin a{
+   color: rgb(89, 149, 206);
+   padding: 10px;
+ }
+/*======banner=====*/
+ .banner-img{
+     background-image: url(banner.jpg.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding: 200px 0;
+ 
+ }
+
+ .bannr-text h1,p{
+     text-align: center;
+     
+ }
+
+ .service{
+     width: 350px;
+     text-align: center;
+     margin-top: 20px;
+     float: left;
+     padding: 20px 0;
+     margin-left: 15px;
+
+
+ }
+ .mr0{
+   margin-left: 0;
+ }
+ .service p{
+   display: inline-block;
+ }
+
+
+ /*=====signup======*/
+
+ .main-div{
+   background: url(../R.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   padding: 100px 0;
+ }
+
+ 
+
+.table{
+  margin: 0 auto;
+  color: #fff;
+}
+.table tr td{
+  padding: 10px 0;
+  font-size: 18px;
+  font-weight: 600;
+  
+}
+
+.table tr td input{
+  color: #fff;
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid #777;
+}
+
+
+  
